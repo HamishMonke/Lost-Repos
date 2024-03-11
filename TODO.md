@@ -1,1 +1,2 @@
-hot dog
+- [ ] make hot dog
+- [ ] eat hot dog
