@@ -1,5 +1,5 @@
 Lost Repos (LR) is a multiplayer video game
 
-#To do
+# To do
 - [ ] make hot dog
 - [ ] eat hot dog
