@@ -1,2 +1,0 @@
-- [ ] make hot dog
-- [ ] eat hot dog
